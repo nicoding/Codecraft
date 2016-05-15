@@ -1,0 +1,4 @@
+#!/bin/sh
+./batch32.sh
+cd bin
+./future_net ../test-case/topo_2.csv ../test-case/demand_2.csv ../test-case/result.csv
